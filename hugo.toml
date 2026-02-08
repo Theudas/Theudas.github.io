@@ -1,4 +1,4 @@
-baseURL = 'https://Theudas.github.io/'
+baseURL = 'https://theudas.github.io/'
 languageCode = 'zh-cn'
 title = 'Theudas的博客'
 theme = 'papermod'

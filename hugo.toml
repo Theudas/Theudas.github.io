@@ -79,8 +79,8 @@ keys = ["title", "permalink", "summary", "content"]  # 搜索的字段
 # 字体配置
 [params.assets]
 disableHLJS = false                         # 是否禁用代码高亮
-favicon = "img/avatar.jpg"                  # 网站图标
-favicon16x16 = "img/avatar.jpg"             # 16x16 图标
-favicon32x32 = "img/avatar.jpg"             # 32x32 图标
-apple_touch_icon = "img/avatar.jpg"         # Apple touch 图标
-safari_pinned_tab = "img/avatar.jpg"        # Safari 固定标签图标
+favicon = "img/avatar.png"                  # 网站图标
+favicon16x16 = "img/avatar.png"             # 16x16 图标
+favicon32x32 = "img/avatar.png"             # 32x32 图标
+apple_touch_icon = "img/avatar.png"         # Apple touch 图标
+safari_pinned_tab = "img/avatar.png"        # Safari 固定标签图标

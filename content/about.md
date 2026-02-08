@@ -4,7 +4,7 @@ draft = false
 title = 'About Me'
 +++
 
-### 👋Hey there!
+### 👋 Hey there!
 I'm Ruoying Tan. A passionate developer and graduate student dedicated to building efficient systems and exploring the frontiers of technology.
 
 #### 🔍 Education
